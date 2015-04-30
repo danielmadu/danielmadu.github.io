@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://danielmadu.github.io
+title: DanielMadu
+tagline: Sempre aprendendo
+description: Blog com minhas experiências em programação
+paginate: 5
